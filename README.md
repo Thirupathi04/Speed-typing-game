@@ -3,7 +3,8 @@ Speed Typing Game 🚀
 
 A simple and interactive speed typing game built using HTML, CSS, and JavaScript. Measure your typing speed (WPM and CPM), accuracy, and error
 count while racing against the clock!.
-Features 🌟:
+Features 🌟
+
     1)Random Quotes: Get a new quote every time you complete one.
 
     2)Real-Time Stats: Track your WPM, CPM, accuracy, errors, and remaining time.
